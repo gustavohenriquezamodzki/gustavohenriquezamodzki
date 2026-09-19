@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Gustavo 👋
 
 I'm a 19-year-old aspiring Web & AI Developer living in Italy. 
